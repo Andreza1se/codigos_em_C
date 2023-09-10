@@ -10,7 +10,7 @@ int main(void)
     int contador;
 
     scanf("%d", &i);
-    //conjunto = fat(n)/fat(p)*fat(n-p);
+   
     for(n=0;n<i;n++){
         for(p=0;p<=n;p++){
         contador = conjunto(n,p);
