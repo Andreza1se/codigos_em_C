@@ -1,0 +1,1 @@
+Olá! Essa pasta tem códigos na linguagem C.
